@@ -1,7 +1,7 @@
 # KID WARS
 
 
-![screenshot](readme-assets/screen_1.jpg)
+![screenshot](readme-assets/screen_1.png)
 
 
 Приложение создано для помощи родителям в обучении детей.
