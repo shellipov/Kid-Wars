@@ -1,0 +1,69 @@
+.Contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content:;
+  align-items: center;
+  margin: 30px;
+  width: 70%;
+  height: 75%;
+  border-radius: 4px;
+  position: fixed;
+  top: 40px;
+  left: 15%;
+  background-color: rgb(99, 126, 161);
+}
+
+.insta {
+  width: 70px;
+  height: 70px;
+  border-radius: 11px;
+  background-size: cover;
+}
+
+.vk {
+  width: 70px;
+  height: 70px;
+  border-radius: 11px;
+  background-size: cover;
+}
+
+.telega {
+  width: 70px;
+  height: 70px;
+  border-radius: 11px;
+  background-size: cover;
+
+}
+.net {
+  display: flex;
+  width: 100%;
+  justify-content:space-around ;
+  flex-direction: row
+}
+
+.Adres {
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items: start;
+  margin-top: -20px;
+}
+.exit {
+  display: flex;
+  justify-content: flex-end;
+  width: 94%;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.card {
+  margin-bottom: 40px;
+}
+
+/* .close  {
+  border-radius: 7px;
+  width: 13%;
+  height: 5%;
+  background: rgb(8, 145, 236) linear-gradient(rgb(3, 255, 242),
+   rgb(23, 91, 248));
+}   */
