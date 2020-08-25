@@ -25,7 +25,9 @@
 
 Запуск программы: 
 >В корне, папках frontend и backend выполнить yarn.
+
 > В одном терминале выполнить dev-server
+
 > Во втором терминале выполнить dev-client
 
 Используемые технологии: HTML, CSS, Bootstrap, React, Redux, React-animation, Node js, Express, Mongoose, Electron, Telegram Bot API и другие.
